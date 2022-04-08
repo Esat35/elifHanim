@@ -9,9 +9,9 @@ public class Q01 {
      *
      * ornek:  input            output
      *         elma  2           eaea
-     *         army  3           ayayay
+     *         army  3           ayayay      ******
 
-     */
+     *
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
