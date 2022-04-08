@@ -11,7 +11,7 @@ public class Q01 {
      *         elma  2           eaea
      *         army  3           ayayay      ******
 
-     *
+     */
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
