@@ -24,7 +24,6 @@ public class Q01 {
 
         hesapMakinesi(islem, sayi1, sayi2);
 
-
     }
 
     public static void hesapMakinesi(char islem, double sayi1, double sayi2) {
